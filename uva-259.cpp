@@ -1,5 +1,5 @@
 //uva 259
-//Software allocatoin
+//Software allocation
 
 #include <iostream>
 #include <vector>
